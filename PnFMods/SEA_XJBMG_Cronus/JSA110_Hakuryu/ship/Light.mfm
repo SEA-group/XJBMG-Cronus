@@ -2,6 +2,9 @@
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.100000	</Float>
+	</property>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_XJBMG_Cronus/JSA110_Hakuryu/ship/default_ao.dds	</Texture>
 	</property>

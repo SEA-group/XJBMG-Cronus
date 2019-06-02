@@ -16,5 +16,4 @@ Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
 
 ==================================================================
 
-Most models and textures credits to miHoYo
-Bomber aircraft made by FABAJI
+Most models and textures credits to miHoYo; Bomber aircraft made by FABAJI.
