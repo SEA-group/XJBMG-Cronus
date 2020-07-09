@@ -1,19 +1,17 @@
 ﻿# Hyperion-class spaceship prototype: Cronus
 
-======================Presented by SEA group======================
+Skin modification for tier 10 aircraft carrier **Hakuryu**. 
 
-This skin applies to Hakuryu; modified from Hyperion (Honkai Impact 3rd)
+Presented by SEA group
 
-本涂装用于白龙; 设定基于崩坏3休伯利安
+## Installation
+* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]/res_mods/[version number]/`
+* **For Steam users**, copy `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
 
-Installation: 
-Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
+## 使用方法
+* **WG游戏中心用户**请把`PnFMods`和`PnFModsLoader.py`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/[版本号]/`里面
+* **Steam客户端用户**请把`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
 
-安装：
-把PnFMods和PnFModsLoader.py放到
-游戏安装目录/res_mods/版本号/ 
-里面即可
-
-==================================================================
-
-Most models and textures credits to miHoYo; Bomber aircraft made by FABAJI.
+## Credits
+* Ship model modified from Hyperion (Honkai Impact 3rd, miHoYo)
+* Bomber aircraft made by FABAJI.
