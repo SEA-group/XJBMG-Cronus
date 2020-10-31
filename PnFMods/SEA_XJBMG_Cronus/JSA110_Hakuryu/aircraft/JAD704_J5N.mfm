@@ -12,7 +12,7 @@
 		<Texture>	PnFMods/SEA_XJBMG_Cronus/JSA110_Hakuryu/aircraft/JAD704_J5N_a.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_XJBMG_Cronus/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Cronus/JSA110_Hakuryu/aircraft/JAD704_J5N_ao.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_XJBMG_Cronus/JSA110_Hakuryu/aircraft/JAD704_J5N_mg.dds	</Texture>
