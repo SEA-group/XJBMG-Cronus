@@ -398,6 +398,114 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_Air_jet_1	</identifier>
+				<transform>
+					<row0>	6.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.300000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.030000 0.087000 -0.290000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_2	</identifier>
+				<transform>
+					<row0>	6.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.300000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.030000 0.087000 -0.290000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.030000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.030000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.042000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.042000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_5	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.018000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_6	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.018000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_7	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.024000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_8	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.024000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_9	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.036000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Air_jet_10	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.036000 0.087000 -0.060000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_Air_ricochet_1	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
